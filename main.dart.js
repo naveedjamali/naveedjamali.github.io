@@ -43930,7 +43930,7 @@ N.Vw.prototype={
 $1:function(a){return!0},
 $S:32}
 F.wN.prototype={
-R:function(a,b){return new S.oO(new F.p0(null),"Flutter Demo",X.a1M(null,C.ht),null)}}
+R:function(a,b){return new S.oO(new F.p0(null),"Naveed Jamali",X.a1M(null,C.ht),null)}}
 F.p0.prototype={
 aY:function(){return new F.CC(C.o)}}
 F.CC.prototype={
